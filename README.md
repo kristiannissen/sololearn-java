@@ -1,1 +1,1 @@
-# sololearn-java
+# Sololearn Java Course
